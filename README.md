@@ -1,4 +1,4 @@
-# Keywords-keyphrases-generator-for-resume-optimization
+# Keywords-keyphrases-keyverbs generator for resume optimization against Turkish job postings
 ## The problem that this project addresses
 The odds of getting selected for an interview when cold applying to tech jobs have always had a reputation of being inefficient or not worth the effort.
 This is understandable taking into consideration that the volume of applications to a single job position in a single department can be huge, so to save manpower and time most companies use an ATS (Applicant Tracking System) to scan and filter the submitted resumes(CVs), making it even harder for some applicants to pass to the next phase of the process even if they qualify for the position, simply, because they made a wrong choice of words causing their resumes(CVs) to be ranked lower by the ATS.
